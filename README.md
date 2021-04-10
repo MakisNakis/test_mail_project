@@ -2,7 +2,13 @@
 
 Run the development server:
 
-```bash
+1)```bash
+npm install
+# or
+yarn install
+```
+
+2)```bash
 npm run dev
 # or
 yarn dev
