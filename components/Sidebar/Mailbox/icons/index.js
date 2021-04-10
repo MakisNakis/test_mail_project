@@ -1,0 +1,6 @@
+export { default as Attachents } from './Attachents'
+export { default as Drafts } from './Drafts'
+export { default as Inbox } from './Inbox'
+export { default as More } from './More'
+export { default as SentMail } from './SentMail'
+export { default as Trash } from './Trash'
